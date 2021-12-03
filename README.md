@@ -2,7 +2,7 @@
 
 ![valid XHTML][checkmark]
 
-# react-native-labs
+# react-native-labs 👉️
 
 ## Contribuição
 
